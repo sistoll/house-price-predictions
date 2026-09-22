@@ -1,0 +1,6 @@
+venv/
+.idea/
+__pycache__/
+*.csv
+*.idx1-ubyte
+*.idx3-ubyte
